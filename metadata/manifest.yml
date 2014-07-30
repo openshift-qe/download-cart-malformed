@@ -29,4 +29,4 @@ Endpoints:
   - Private-IP-Name:   DB_HOST
     Private-Port:      3306
     Public-Port-Name:  DB_PROXY_PORT
-Source-Url: https://github.com/jhou1/downloadable-mysql.git
+Source-Url: https://github.com/jhou1/openshift-malformed-cart.git
